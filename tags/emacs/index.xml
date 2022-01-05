@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emacs on #ruifigueiredo</title>
+    <link>/tags/emacs/</link>
+    <description>Recent content in emacs on #ruifigueiredo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>website made with emacs and org-mode</copyright>
+    <lastBuildDate>Sat, 13 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Spotify</title>
+      <link>/articles/emacs_spotify/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/emacs_spotify/</guid>
+      <description>Emacs spotify
+ </description>
+    </item>
+    
+  </channel>
+</rss>

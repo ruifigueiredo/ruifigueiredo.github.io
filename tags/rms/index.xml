@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rms on #ruifigueiredo</title>
+    <link>/tags/rms/</link>
+    <description>Recent content in rms on #ruifigueiredo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>website made with emacs and org-mode</copyright>
+    <lastBuildDate>Sat, 14 May 2011 00:00:00 +0100</lastBuildDate><atom:link href="/tags/rms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Richard Stallman na FCUP</title>
+      <link>/articles/rms_fcup/</link>
+      <pubDate>Sat, 14 May 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/articles/rms_fcup/</guid>
+      <description>No âmbito das comemorações dos 100 anos da Faculdade de Ciências da U.Porto (FCUP), Richard Stallman, o responsável pelo desenvolvimento do sistema operativo GNU (http://www.gnu.org/) em 1984 e Presidente da Free Software Foundation vai estar no dia 14 de Maio, na FCUP, evento integrado nas comemorações dos 25 anos da Licenciatura em Ciência de Computadores (curso da responsabilidade do Departamento de Ciência de Computadores) da FCUP.
+A área de formação em Ciência de Computadores foi criada na FCUP em 1985.</description>
+    </item>
+    
+  </channel>
+</rss>

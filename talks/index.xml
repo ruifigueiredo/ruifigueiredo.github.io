@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on #ruifigueiredo</title>
+    <link>/talks/</link>
+    <description>Recent content in Talks on #ruifigueiredo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>website made with emacs and org-mode</copyright>
+    <lastBuildDate>Tue, 23 Sep 2014 00:00:00 +0100</lastBuildDate><atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DrupalDay 2014 &#34;Conhecimento essencial para iniciantes em Drupal&#34;</title>
+      <link>/talks/drupal-day-2014/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/drupal-day-2014/</guid>
+      <description>Esta sessão de abertura dá uma visão geral das habilidades essenciais e conhecimento necessários para começar a usar o Drupal. Assumindo que nada existe de conhecimento prévio do Drupal, este momento será como um mapa ou um guia para entrar no mundo do Drupal. Você vai aprender a falar Drupalês como um verdadeiro geek do Drupal. Alguns tópicos abordados: Drupal em perspectiva: o que é? Quais seus lados bons e maus?</description>
+    </item>
+    
+    <item>
+      <title>Mnesca Privacy</title>
+      <link>/talks/mnesca_privacy/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/mnesca_privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminário Mestrado OpenSource Schiu Proposta OSS.</title>
+      <link>/talks/schiu-proposta-oss/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/schiu-proposta-oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup Drupal no ISCTE IUL</title>
+      <link>/talks/meetup-drupal-iscte/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/meetup-drupal-iscte/</guid>
+      <description>No dia 2 de Junho das 10H as 14H (sábado) irá realizar-se um Meetup Drupal, no ISCTE-IUL (sala C104) promovido pela Associação Drupal Portugal no âmbito do Mestrado Open Source com a colaboração do Prof.Doutor Carlos Costa Coordenador Cientifico do Mestrado OpenSource (MOSS) do ISCTE. O Meetup tem como objetivo abordar temas pertinentes do Drupal, partilha e discussão de ideias e experiências.</description>
+    </item>
+    
+    <item>
+      <title>Como juntar investidores com empreendedores</title>
+      <link>/talks/juntar-investidores-empreendedores/</link>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/juntar-investidores-empreendedores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O CMS Seguro</title>
+      <link>/talks/cms_seguro/</link>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/cms_seguro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

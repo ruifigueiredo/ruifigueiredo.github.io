@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>impressoras on #ruifigueiredo</title>
+    <link>/tags/impressoras/</link>
+    <description>Recent content in impressoras on #ruifigueiredo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>website made with emacs and org-mode</copyright>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/impressoras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressora 3D</title>
+      <link>/articles/impressora3d/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/impressora3d/</guid>
+      <description>Já fazia sentido ter uma impressora 3d para os meus projectos :) e foi depois de muitas pesquisas que decidi escolher a ANET ET4+.
+Uma impressora simples de trabalhar e julgo que seja uma das impressoras que dê para introduzir no mundo das impressoras 3d.</description>
+    </item>
+    
+  </channel>
+</rss>

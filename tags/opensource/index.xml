@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on #ruifigueiredo</title>
+    <link>/tags/opensource/</link>
+    <description>Recent content in opensource on #ruifigueiredo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>website made with emacs and org-mode</copyright>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rectangle Versão 0.43 (48)</title>
+      <link>/articles/rectangle/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/rectangle/</guid>
+      <description>O Rectangle é um gestor de janelas opensource ao qual podemos contribuir com o projecto ver + infos no url -&amp;gt; https://rectangleapp.com/. A equipa que fez o rectangle liderada pelo Ryan Hanson https://ryanhanson.dev/ tambem já desenvolveu o Hookshot, Middle e o Multitouch que promete ter uma interatividade interessante como base os gestos do utilizador, no entanto não testei ainda as aplicações.
+Regressando ao tema do rectangle, que sem duvida aumenta a productividade, complementa uma necessidade que sentimos no Mac OS que é na gestão do posicionamento das aplicações no ecran ou ecran&amp;rsquo;s.</description>
+    </item>
+    
+  </channel>
+</rss>

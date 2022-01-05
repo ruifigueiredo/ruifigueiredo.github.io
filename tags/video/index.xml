@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on #ruifigueiredo</title>
+    <link>/tags/video/</link>
+    <description>Recent content in video on #ruifigueiredo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>website made with emacs and org-mode</copyright>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0100</lastBuildDate><atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merceana - Parrot Anafi #1</title>
+      <link>/articles/merceana-parrot-anafi/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/articles/merceana-parrot-anafi/</guid>
+      <description>Já tinha feito alguns voos com o drone parrot anafi mas como este foi a primeira vez&amp;hellip; Neste primeiro voo que fiz utilizei a feature Flight Plan da app FreeFligth6, com esta funcionalidade podemos planear o voo de uma forma simples e prática, passando por definir os pontos de inicio do voo, onde é possivel definir a altitude e a direção para o proximo ponto. Podemos também definir a velocidade e o ponto de interesse, ao qual o drone aponta a camera para esse ponto até que seja atribuida nova instrução.</description>
+    </item>
+    
+    <item>
+      <title>Emacs Spotify</title>
+      <link>/articles/emacs_spotify/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/emacs_spotify/</guid>
+      <description>Emacs spotify
+ </description>
+    </item>
+    
+    <item>
+      <title>Richard Stallman na FCUP</title>
+      <link>/articles/rms_fcup/</link>
+      <pubDate>Sat, 14 May 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/articles/rms_fcup/</guid>
+      <description>No âmbito das comemorações dos 100 anos da Faculdade de Ciências da U.Porto (FCUP), Richard Stallman, o responsável pelo desenvolvimento do sistema operativo GNU (http://www.gnu.org/) em 1984 e Presidente da Free Software Foundation vai estar no dia 14 de Maio, na FCUP, evento integrado nas comemorações dos 25 anos da Licenciatura em Ciência de Computadores (curso da responsabilidade do Departamento de Ciência de Computadores) da FCUP.
+A área de formação em Ciência de Computadores foi criada na FCUP em 1985.</description>
+    </item>
+    
+  </channel>
+</rss>

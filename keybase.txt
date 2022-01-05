@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ruifigueiredo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ruifigueiredo.me
+  * I am ruifigueiredo (https://keybase.io/ruifigueiredo) on keybase.
+  * I have a public key with fingerprint 4C89 BD4B 3E94 B228 F3CF  F426 68E0 E852 C269 6074
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101904caf57dab7a3bcb7b8b8a39475b2dad5a39f88e61a035a1cbbb4cc4efc1cb00a",
+      "fingerprint": "4c89bd4b3e94b228f3cff42668e0e852c2696074",
+      "host": "keybase.io",
+      "key_id": "68e0e852c2696074",
+      "kid": "0101904caf57dab7a3bcb7b8b8a39475b2dad5a39f88e61a035a1cbbb4cc4efc1cb00a",
+      "uid": "1d38b5d90a41b9f667d9b1a94d09b019",
+      "username": "ruifigueiredo"
+    },
+    "service": {
+      "hostname": "ruifigueiredo.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538141608,
+  "expire_in": 157680000,
+  "prev": "5ebe34a0ef47c17043f963ec43c076a162c9593002e00e6b015558532730ad40",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJrbAxRFMd3tdV2G4lEJB5ROhIJ2dadmTuvJV6pkA1NBAmt2N575852
+lJ01M9uq5cOmgjQkq1K+UMSrnxAhXSS0UhGUeIaoIEUbrVdFQ7zvNHzz0f1yzz3n
+f37nnJvTMSLLF/C/DfcNf7VzR5P/RvuhhK/iRHFLksOWXseFklw1HbroWp06bqTa
+1LkQB3jAawASZEiKjrCCREywglWsIlGDioQFHekSsw1VpTKPgCghnmCMISGQGoTZ
+ACAuyBlmLErtuG3GXIaFRNWwDrFINYgFQTVEYhhQkGWVAqpKAhFkTQYKZIlVluNl
+sOYwcmiJaTEfe0SG2vuH/j/3nRjC8bqoYknXAII81gxZVnQN80iDOtAwq+QJHWrH
+0DrK1HbCNMxogpo21S1uc5BjoRqTUO93vXH+JSthriAXty3XItZaFq1y3bgT8rLd
+urgnr6U48gcUwWZMZx/KMmqo7ZhWjAvxTElc0yPzkqjykJeBGuTohjjjR0xPISmy
+Ctjx6tAahpQopiJEgBpQIbwCoGhoskgJFAlQZMTLAtEkTQRAoABQmU0qSZIqiYIi
+AqRDwHmjrY9ZjM2gLooypmNGY8hN2JTbfLltVbbPH/ANzxnmbZovkD/y7/7dDeX5
+mh8eTzYmP3YvWzP7Whjkzqs4v7C+s2vOpsKpWeva9u8+pS0ZbN79Od01fsvqXfOP
+fC8qm9uX6plYXrngQaShN9X2ZePz7pVb9w1eveTvetrQv73/aGRqpZPbs2hFMDc6
++EnIu50paNz7/NioeyVc/o+z7w5M+vqr7GZxR+mF1Lmfz9Ipumay5i8Sdk4eV9fZ
+Lz1uLgvsL20tnXR4ulz1Qst6dKhp1p2Wnifdy9/MIEvNoxcXjE8vHv3izJRXM8e9
+vSUfbH1fHlvVmeg9+TJT2DEmuFe/gaMTPlxBBRfC1a8XDZwetWd2OFM/Qs7Zlm22
+f/NnCtNm07X71/FYp/Z938C0JfV51m9ddkqP
+=bG39
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ruifigueiredo
+
+==================================================================
